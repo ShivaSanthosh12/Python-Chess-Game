@@ -16,10 +16,6 @@ A fully functional chess game built with Pygame, featuring a clean interface, pi
 - **Restart Functionality**: Press ENTER to start a new game
 - **Forfeit Option**: Players can forfeit their turn
 
-## 🖼️ Screenshots
-
-![Chess Game Screenshot](screenshots/gameplay.png)
-*Main gameplay interface*
 
 ## 🚀 Getting Started
 
