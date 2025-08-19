@@ -109,25 +109,6 @@ python-chess-game/
 - `draw_valid()` - Shows valid moves for selected piece
 - `draw_check()` - Highlights king when in check
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork the Project**
-2. **Create your Feature Branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your Changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the Branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Ideas for Contributions
-- [ ] Add castling move
-- [ ] Implement en passant
-- [ ] Add pawn promotion
-- [ ] Create AI opponent
-- [ ] Add move history
-- [ ] Implement checkmate detection
-- [ ] Add sound effects
-- [ ] Create different board themes
 
 ## 🐛 Known Issues
 
@@ -135,31 +116,3 @@ Contributions are welcome! Here's how you can help:
 - En passant capture is not available
 - Pawn promotion is not implemented
 - Checkmate detection could be improved
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- Chess piece images from [source]
-- Pygame community for excellent documentation
-- Chess.com for rule references
-
-## 📈 Version History
-
-- **v1.0.0** - Initial release
-  - Basic chess gameplay
-  - All piece movements
-  - Turn-based system
-  - Check detection
-
----
-
-⭐ **Star this repository if you found it helpful!**
